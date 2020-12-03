@@ -1,5 +1,5 @@
 {
-  "name": "react-hotkeys",
+  "name": "@code_of_power/hotkeys-react",
   "version": "1.0.0",
   "description": "Package for create and handle hotkeys for React.JS",
   "author": "Code of Power",
@@ -61,7 +61,12 @@
   "files": [
     "dist"
   ],
-  "keywords": ["hotkey", "keys", "handle"],
+  "keywords": [
+    "hotkey",
+    "keys",
+    "shortcuts",
+    "handle"
+  ],
   "dependencies": {
     "ts-keycode-enum": "^1.0.6"
   }
