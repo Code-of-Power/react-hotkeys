@@ -61,6 +61,7 @@
   "files": [
     "dist"
   ],
+  "keywords": ["hotkey", "keys", "handle"],
   "dependencies": {
     "ts-keycode-enum": "^1.0.6"
   }
