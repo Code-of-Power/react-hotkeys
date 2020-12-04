@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save react-hotkeys
+npm install --save @code_of_power/react-hotkeys
 ```
 
 ## Base usage
@@ -45,6 +45,8 @@ const Example: FC = () => {
   )
 }
 ```
+
+More examples in live on [codesandbox](https://codesandbox.io/s/polished-field-12ufy?file=/src/App.tsx).
 
 ## License
 
