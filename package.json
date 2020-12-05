@@ -1,6 +1,6 @@
 {
   "name": "@code_of_power/react-hotkeys",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package for create and handle hotkeys for React.JS",
   "author": "Code of Power",
   "license": "MIT",
@@ -11,6 +11,10 @@
   "contributors": [
     "only-exlight"
   ],
+  "funding": {
+    "type": "Organization account",
+    "url": "https://www.tinkoff.ru/collectmoney/crowd/kernichnyi.andrey1/yHjhT34489/?short_link=1idYUIkwUmR&httpMethod=GET"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
@@ -71,7 +75,16 @@
     "hotkey",
     "keys",
     "shortcuts",
-    "handler"
+    "handler",
+    "react",
+    "react.js",
+    "hook",
+    "react-component",
+    "keypress",
+    "keyboard",
+    "mouse",
+    "events",
+    "typescript"
   ],
   "dependencies": {
     "ts-keycode-enum": "^1.0.6"
